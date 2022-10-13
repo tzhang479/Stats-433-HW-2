@@ -2,7 +2,7 @@ Stats 433 HW 3
 ================
 2022-10-13
 
-URL of Github: <https://github.com/tzhang479/STAT-433-HW1/tree/main>
+URL of Github: <https://github.com/tzhang479/Stats-433-HW-3/tree/main>
 
 HW 3
 
